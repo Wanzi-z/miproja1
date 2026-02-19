@@ -2,7 +2,6 @@
 [![GitHub Downloads](https://img.shields.io/github/downloads/spocky/miproja1/total?color=blue&label=Downloads&logo=github)](https://github.com/spocky/miproja1/releases)
 [![Google Play downloads](https://playbadges.pavi2410.com/badge/downloads?id=com.spocky.projengmenu&pretty)](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
 [![Google Play RAtings](https://playbadges.pavi2410.com/badge/ratings?id=com.spocky.projengmenu)](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
-[![Amazon Fire TV](https://img.shields.io/static/v1?style=flat&color=FC4C02&logo=Amazon&logoColor=FFFFFF&label=Amazon&nbsp;Downloads&message=0k%2B)](https://www.amazon.com/gp/product/B0FVKHYHFL)
 
 [![Xda](https://img.shields.io/static/v1?style=flat&color=EA7100&logo=xda-developers&logoColor=FFFFFF&label=XDA&message=Developers)](https://xdaforums.com/t/app-android-tv-projectivy-launcher.4436549)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/Projectivy_Launcher)](https://www.reddit.com/r/Projectivy_Launcher)
@@ -61,8 +60,7 @@ While initially not dedicated to this purpose, this repo now also serves as the 
 
 ## How to get Projectivy Launcher
 
-[![Google Play Store badge](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.spocky.projengmenu) &nbsp;&nbsp;
-[<img alt="Amazon Appstore badge" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appstore-badge-english-black.png" width="153">](http://www.amazon.com/gp/mas/dl/android?p=com.spocky.projengmenu)
+[![Google Play Store badge](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
 
 Or [download the APK from the Releases page](https://github.com/spocky/miproja1/releases) and install it manually
 
